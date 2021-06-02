@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 [Flutter commands](https://flutter.dev/docs/reference/flutter-cli)
 [Pub Dev You can search the plugins used in the project](https://flutter.dev/)
+[Bloc Library](https://bloclibrary.dev/#/gettingstarted)
